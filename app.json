@@ -1,0 +1,13 @@
+{
+  "name": "delicia",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
