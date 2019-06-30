@@ -34,10 +34,10 @@
 	<div class="slider">
 	<h1>mis imagenes</h1>
 	<div class="slider">
-	<img src="delicia.jpg" height="140" nidth"140">
-	<img src="P1010836.jpg" height="140" nidth"140">
-	<img src="cierto.jpg" height="140" nidth"140">
-	<img src="alcantara.jpg" height="140" nidth"140">
+	<img src="delicia.jpg" height="140" width="140">
+	<img src="P1010836.jpg" height="140" width="140">
+	<img src="cierto.jpg" height="140" width="140">
+	<img src="alcantara.jpg" height="140" width="140">
 	</div>
 	
 </body>
